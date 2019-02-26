@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Chen liked to play basketball once a week, but he had to do a lot of assignments this week and next week. Therefore, he didn't have time to play it.
-=======
-Chen likes to play basketball once a week, but he has to do a lot of assignments this week and next week. Therefore, he don't have time to play it. However, he is finishing his programming assignment very quickly, so he might have time to go play. So far, it's been a good day. Chen is looking forward to the night ahead. But the sky is too dark and chen decide to play computer games instead of playing basketball. it seems he prefer to play video games.
-While Chen's roommate invites him to watch movie together, Chen is too obsessed with the video games so he refuses his roommate.
 
->>>>>>> 704624f1fdd96f59ad40ba653f22b0241f006fef
+Chen likes to play basketball once a week, but he has to do a lot of assignments this week and next week. Therefore, he don't have time to play it. However, he is finishing his programming assignment very quickly, so he might have time to go play. So far, it's been a good day. Chen is looking forward to the night ahead. But the sky is too dark and chen decide to play computer games instead of playing basketball. it seems he prefer to play video games.
+While Chen's roommate invites him to watch movie together, Chen is too obsessed with the video games so he refuses his roommate.Finally, they ate some foods at home and got sleep.
